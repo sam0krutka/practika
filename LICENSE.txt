@@ -1,201 +1,201 @@
- Лицензия Apache
- Версия 2.0, январь 2004 г.
- http://www.apache.org/licenses/
+ Apache License
+                           Version 2.0, January 2004
+                        http://www.apache.org/licenses/
 
- ПРАВИЛА И УСЛОВИЯ ИСПОЛЬЗОВАНИЯ, ВОСПРОИЗВЕДЕНИЯ И РАСПРОСТРАНЕНИЯ
+   TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
 
- 1. Определения.
+   1. Definitions.
 
- "Лицензия" означает условия использования, воспроизведения 
- и распространения, определенные разделами 1-9 настоящего документа.
+      "License" shall mean the terms and conditions for use, reproduction,
+      and distribution as defined by Sections 1 through 9 of this document.
 
- "Лицензиар" означает владельца авторских прав или организацию, уполномоченную им. 
- владелец авторских прав, который предоставляет Лицензию.
+      "Licensor" shall mean the copyright owner or entity authorized by
+      the copyright owner that is granting the License.
 
- "Юридическое лицо" означает союз действующие лица и все
- другие структуры, которые контролируют, контролируются или находятся под общим
- контролировать организацию. Для целей данного определения 
- "контроль" означает (i) власть, прямую или косвенную, осуществлять 
- руководство такой организацией, будь то по контракту или 
- иным образом, или (ii) владение пятьюдесятью процентами (50%) или более от 
- размещенных акций, или (iii) фактическое владение такой организацией.
+      "Legal Entity" shall mean the union of the acting entity and all
+      other entities that control, are controlled by, or are under common
+      control with that entity. For the purposes of this definition,
+      "control" means (i) the power, direct or indirect, to cause the
+      direction or management of such entity, whether by contract or
+      otherwise, or (ii) ownership of fifty percent (50%) or more of the
+      outstanding shares, or (iii) beneficial ownership of such entity.
 
- "Вы" (или "Ваш") означает физическое или юридическое лицо 
- осуществляющее разрешения, предоставленные настоящей Лицензией.
+      "You" (or "Your") shall mean an individual or Legal Entity
+      exercising permissions granted by this License.
 
- "Исходная" форма означает предпочтительную форму для внесения изменений, 
- включая, но не ограничиваясь, исходный код программного обеспечения, документацию 
- исходные файлы и конфигурацию.
+      "Source" form shall mean the preferred form for making modifications,
+      including but not limited to software source code, documentation
+      source, and configuration files.
 
- "Объектная" форма означает любую форму, полученную в результате механического преобразования 
- или трансляции исходной формы, включая, но 
- не ограничиваясь этим, скомпилированный объектный код, сгенерированную документацию, 
- и преобразования в другие типы носителей.
+      "Object" form shall mean any form resulting from mechanical
+      transformation or translation of a Source form, including but
+      not limited to compiled object code, generated documentation,
+      and conversions to other media types.
 
- "Работы" означает работы авторства, исходный текст или
- Объект, форма, выполненная доступен по лицензии, как указано
- уведомление об авторских правах, включенные в или прикреплен к работе
- (пример приведен в приложении ниже).
+      "Work" shall mean the work of authorship, whether in Source or
+      Object form, made available under the License, as indicated by a
+      copyright notice that is included in or attached to the work
+      (an example is provided in the Appendix below).
 
- "Производные работы" означают любую работу, будь то в исходном виде или объектной форме 
- , которая основана на Работе (или производна от нее) и для которой были внесены 
- редакторские правки, аннотации, уточнения или другие модификации 
- в целом представляют собой оригинальную авторскую работу. Для целей настоящей Лицензии 
- Производные работы не должны включать работы, которые остаются 
- отделимыми от интерфейсов или просто ссылаются (или привязываются по имени) на них 
- произведение и производные от него работы.
+      "Derivative Works" shall mean any work, whether in Source or Object
+      form, that is based on (or derived from) the Work and for which the
+      editorial revisions, annotations, elaborations, or other modifications
+      represent, as a whole, an original work of authorship. For the purposes
+      of this License, Derivative Works shall not include works that remain
+      separable from, or merely link (or bind by name) to the interfaces of,
+      the Work and Derivative Works thereof.
 
- "Вклад" означает любую авторскую работу, включая 
- оригинальную версию работы и любые модификации или дополнения
- к этому Произведению или производным от него работам, которые сделаны намеренно 
- переданы Лицензиару для включения в Произведение владельцем авторских прав 
- или физическим или юридическим лицом, уполномоченным представлять от имени 
- владельца авторских прав. Для целей этого определения "отправлено"
- означает любую форму электронного, устного или письменного сообщения, отправленного 
- лицензиару или его представителям, включая, но не ограничиваясь этим 
- сообщения в электронных списках рассылки, системах контроля исходного кода, 
- и системы отслеживания проблем, которыми управляет Лицензиар или от его имени 
- Лицензиар с целью обсуждения и улучшения работы, но 
- исключая сообщения, которые явно помечены или иным образом 
- обозначено в письменной форме владельцем авторских прав как "Не является вкладом".
+      "Contribution" shall mean any work of authorship, including
+      the original version of the Work and any modifications or additions
+      to that Work or Derivative Works thereof, that is intentionally
+      submitted to Licensor for inclusion in the Work by the copyright owner
+      or by an individual or Legal Entity authorized to submit on behalf of
+      the copyright owner. For the purposes of this definition, "submitted"
+      means any form of electronic, verbal, or written communication sent
+      to the Licensor or its representatives, including but not limited to
+      communication on electronic mailing lists, source code control systems,
+      and issue tracking systems that are managed by, or on behalf of, the
+      Licensor for the purpose of discussing and improving the Work, but
+      excluding communication that is conspicuously marked or otherwise
+      designated in writing by the copyright owner as "Not a Contribution."
 
- "Участник" означает Лицензиара и любое физическое или юридическое лицо 
- от имени которого Лицензиар получил Вклад и 
- впоследствии включил в Произведение.
+      "Contributor" shall mean Licensor and any individual or Legal Entity
+      on behalf of whom a Contribution has been received by Licensor and
+      subsequently incorporated within the Work.
 
- 2. Предоставление лицензии на авторское право. В соответствии с условиями 
- настоящей Лицензии каждый Участник настоящим предоставляет Вам бессрочное,
- по всему миру, неисключительная, бесплатная, безвозмездная, безотзывная 
- лицензия на авторское право на воспроизведение, подготовку производных работ, 
- публичный показ, публичное исполнение, сублицензирование и распространение 
- Работа и подобные производные работают в исходной или объектной форме.
+   2. Grant of Copyright License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      copyright license to reproduce, prepare Derivative Works of,
+      publicly display, publicly perform, sublicense, and distribute the
+      Work and such Derivative Works in Source or Object form.
 
- 3. Предоставление патентной лицензии. В соответствии с положениями и условиями 
- настоящей Лицензии каждый Участник настоящим предоставляет Вам бессрочную, 
- всемирную, неисключительную, бесплатную, безвозмездную, безотзывную
- (за исключением случаев, указанных в этом разделе) патентная лицензия на создание, изготовили, 
- использовать, предлагать продать, импортировать и иным образом передавать Произведение, 
- когда такая лицензия распространяется только на те патентные заявки, которые подлежат лицензированию 
- от такого Участника, которое обязательно нарушается его
- Вклад (ы) отдельно или в сочетании с их вкладом (ами) 
- с работой, на которую был отправлен такой Вклад (ы). Если Вы 
- подаете патентный иск против какой-либо организации (включая 
- перекрестный или встречный иск в судебном процессе), утверждая, что Произведение 
- или Вклад, включенный в Произведение, представляет собой прямое 
- или сопутствующее нарушение патентных прав, затем любые патентные лицензии
- действие Лицензии, предоставленной Вам на эту работу, прекращается 
- с даты подачи иска.
+   3. Grant of Patent License. Subject to the terms and conditions of
+      this License, each Contributor hereby grants to You a perpetual,
+      worldwide, non-exclusive, no-charge, royalty-free, irrevocable
+      (except as stated in this section) patent license to make, have made,
+      use, offer to sell, sell, import, and otherwise transfer the Work,
+      where such license applies only to those patent claims licensable
+      by such Contributor that are necessarily infringed by their
+      Contribution(s) alone or by combination of their Contribution(s)
+      with the Work to which such Contribution(s) was submitted. If You
+      institute patent litigation against any entity (including a
+      cross-claim or counterclaim in a lawsuit) alleging that the Work
+      or a Contribution incorporated within the Work constitutes direct
+      or contributory patent infringement, then any patent licenses
+      granted to You under this License for that Work shall terminate
+      as of the date such litigation is filed.
 
- 4. Распространение. Вы можете воспроизводить и распространять копии 
- Работы или производных от нее на любом носителе, с изменениями или без них 
- в виде исходного кода или объекта, при условии, что Вы 
- выполняете следующие условия:
+   4. Redistribution. You may reproduce and distribute copies of the
+      Work or Derivative Works thereof in any medium, with or without
+      modifications, and in Source or Object form, provided that You
+      meet the following conditions:
 
- (а) Вы должны предоставить любым другим получателям Произведения или 
- Производных работ копию этой Лицензии; и
+      (a) You must give any other recipients of the Work or
+          Derivative Works a copy of this License; and
 
- (б) Вы должны сделать так, чтобы на всех измененных файлах были заметные уведомления 
- о том, что Вы изменили файлы; и
+      (b) You must cause any modified files to carry prominent notices
+          stating that You changed the files; and
 
- (c) Вы должны сохранять в исходной форме любые производные работы 
- , которые Вы распространяете, все авторские права, патенты, товарные знаки и 
- уведомления об атрибуции из исходной формы Работы, 
- исключая те уведомления, которые не относятся ни к какой части 
- производных работ; и
+      (c) You must retain, in the Source form of any Derivative Works
+          that You distribute, all copyright, patent, trademark, and
+          attribution notices from the Source form of the Work,
+          excluding those notices that do not pertain to any part of
+          the Derivative Works; and
 
- (d) Если работа включает текстовый файл "NOTICE" как часть своего распространения 
- , то любые производные работы, которые вы распространяете, должны 
- включать читаемую копию уведомлений об атрибуции, содержащихся в 
- в таком файле УВЕДОМЛЕНИЙ, исключая те уведомления, которые не
- относятся к любой части производных работ, по крайней мере, в одном из следующих мест 
- в распространяемом текстовом файле УВЕДОМЛЕНИЯ 
- как часть производных работ; в исходной форме или 
- документация, если она предоставлена вместе с производными работами; или, 
- в пределах дисплея, созданного производными работами, если и 
- везде, где обычно появляются такие уведомления сторонних производителей. Содержимое 
- файла УВЕДОМЛЕНИЯ предназначено только для информационных целей и 
- не изменяет Лицензию. Вы можете добавить свою собственную атрибуцию 
- уведомления в производных произведениях, которые Вы распространяете, вместе с 
- или в качестве дополнения к тексту УВЕДОМЛЕНИЯ из Произведения, при условии 
- что такие дополнительные уведомления об атрибуции не могут быть истолкованы 
- как изменение Лицензии.
+      (d) If the Work includes a "NOTICE" text file as part of its
+          distribution, then any Derivative Works that You distribute must
+          include a readable copy of the attribution notices contained
+          within such NOTICE file, excluding those notices that do not
+          pertain to any part of the Derivative Works, in at least one
+          of the following places: within a NOTICE text file distributed
+          as part of the Derivative Works; within the Source form or
+          documentation, if provided along with the Derivative Works; or,
+          within a display generated by the Derivative Works, if and
+          wherever such third-party notices normally appear. The contents
+          of the NOTICE file are for informational purposes only and
+          do not modify the License. You may add Your own attribution
+          notices within Derivative Works that You distribute, alongside
+          or as an addendum to the NOTICE text from the Work, provided
+          that such additional attribution notices cannot be construed
+          as modifying the License.
 
- Вы можете добавить свое собственное заявление об авторских правах к своим модификациям и 
- можете предоставить дополнительные или отличающиеся лицензионные условия 
- для использования, воспроизведения или распространения Ваших модификаций или 
- для любых таких производных работ в целом, при условии вашего использования, 
- воспроизведение и распространение Работы в остальном соответствует
- условия, изложенные в этой Лицензии.
+      You may add Your own copyright statement to Your modifications and
+      may provide additional or different license terms and conditions
+      for use, reproduction, or distribution of Your modifications, or
+      for any such Derivative Works as a whole, provided Your use,
+      reproduction, and distribution of the Work otherwise complies with
+      the conditions stated in this License.
 
- 5. Подача материалов. Если Вы явно не укажете иное, 
- любой Вклад, намеренно представленный Вами Лицензиару для включения в Работу 
- , должен соответствовать условиям 
- настоящей Лицензии без каких-либо дополнительных условий.
- Несмотря на вышесказанное, ничто в настоящем документе не должно заменять или изменять 
- условия любого отдельного лицензионного соглашения, которое вы, возможно, заключили 
- с Лицензиаром в отношении таких вкладов.
+   5. Submission of Contributions. Unless You explicitly state otherwise,
+      any Contribution intentionally submitted for inclusion in the Work
+      by You to the Licensor shall be under the terms and conditions of
+      this License, without any additional terms or conditions.
+      Notwithstanding the above, nothing herein shall supersede or modify
+      the terms of any separate license agreement you may have executed
+      with Licensor regarding such Contributions.
 
- 6. Товарные знаки. Данная Лицензия не дает разрешения на использование торговых марок 
- наименования, товарные знаки, знаки обслуживания или наименования продуктов Лицензиара, 
- за исключением случаев, когда это требуется для разумного и обычного использования при описании 
- происхождение работы и воспроизведение содержимого файла УВЕДОМЛЕНИЙ.
+   6. Trademarks. This License does not grant permission to use the trade
+      names, trademarks, service marks, or product names of the Licensor,
+      except as required for reasonable and customary use in describing the
+      origin of the Work and reproducing the content of the NOTICE file.
 
- 7. Отказ от гарантии. Если этого не требует применимое законодательство или 
- не согласовано в письменной форме, Лицензиар предоставляет Работу (и каждый
- Участник предоставляет свои материалы) по ПРИНЦИПУ "КАК ЕСТЬ", 
- БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ Или УСЛОВИЙ, явных или 
- подразумеваемых, включая, помимо прочего, любые гарантии или условия
- права собственности, ненарушения, товарного состояния или пригодности для
- ОПРЕДЕЛЕННОЙ ЦЕЛИ. Вы несете единоличную ответственность за определение 
- уместности использования или распространения Работы и принимаете на себя любые 
- риски, связанные с использованием Вами прав, предусмотренных настоящей Лицензией.
+   7. Disclaimer of Warranty. Unless required by applicable law or
+      agreed to in writing, Licensor provides the Work (and each
+      Contributor provides its Contributions) on an "AS IS" BASIS,
+      WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or
+      implied, including, without limitation, any warranties or conditions
+      of TITLE, NON-INFRINGEMENT, MERCHANTABILITY, or FITNESS FOR A
+      PARTICULAR PURPOSE. You are solely responsible for determining the
+      appropriateness of using or redistributing the Work and assume any
+      risks associated with Your exercise of permissions under this License.
 
- 8. Ограничение ответственности. Ни в коем случае и ни в правовой теории,
- будь то в результате гражданского правонарушения (включая халатность), или, иначе,
- за исключением случаев, предусмотренных действующим законодательством (например, преднамеренное и грубо
- небрежности) или не согласовано в письменной форме, любой участник должен быть
- нести ответственность перед вами за убытки, включая любые прямые, косвенные, специальные,
- случайные или последующие убытки любого характера, возникающие в
- результатом данного соглашения или из использования или невозможности использования
- Работы (в том числе, но не ограничиваясь этим, убытки за потерю репутации,
- прекращения работы, компьютерного сбоя или неисправности, или любые и все
- другие коммерческие убытки или потери), даже если такой участник
- была предупреждена о возможности таких убытков.
+   8. Limitation of Liability. In no event and under no legal theory,
+      whether in tort (including negligence), contract, or otherwise,
+      unless required by applicable law (such as deliberate and grossly
+      negligent acts) or agreed to in writing, shall any Contributor be
+      liable to You for damages, including any direct, indirect, special,
+      incidental, or consequential damages of any character arising as a
+      result of this License or out of the use or inability to use the
+      Work (including but not limited to damages for loss of goodwill,
+      work stoppage, computer failure or malfunction, or any and all
+      other commercial damages or losses), even if such Contributor
+      has been advised of the possibility of such damages.
 
- 9. Принимаю гарантию или дополнительную ответственность. При распространении
- Вы можете предлагать Работу или производные от нее Работы 
- и взимать плату за принятие поддержки, гарантии, возмещения убытков 
- или других обязательств по ответственности и / или прав, соответствующих настоящей Лицензии.
- Лицензия. Однако, при принятии таких обязательств, Вы можете действовать только
- от своего имени и на свой страх и ответственность, а не от имени
- любого другого участника, и только если вы согласны возмещать убытки,
- защитите и удерживайте каждый участник безвреден для любого ограниченной ответственностью
- понесенные или исков, предъявленных против, такой участник по причине
- ваш прием любой такой гарантии или с дополнительной ответственностью.
+   9. Accepting Warranty or Additional Liability. While redistributing
+      the Work or Derivative Works thereof, You may choose to offer,
+      and charge a fee for, acceptance of support, warranty, indemnity,
+      or other liability obligations and/or rights consistent with this
+      License. However, in accepting such obligations, You may act only
+      on Your own behalf and on Your sole responsibility, not on behalf
+      of any other Contributor, and only if You agree to indemnify,
+      defend, and hold each Contributor harmless for any liability
+      incurred by, or claims asserted against, such Contributor by reason
+      of your accepting any such warranty or additional liability.
 
- ОКОНЧАНИЕ ПРАВИЛ И УСЛОВИЙ
+   END OF TERMS AND CONDITIONS
 
- ПРИЛОЖЕНИЕ: Как применить лицензию Apache к своей работе.
+   APPENDIX: How to apply the Apache License to your work.
 
- Чтобы применить лицензию Apache к своей работе, приложите следующее 
- стандартное уведомление с полями, заключенными в квадратные скобки "[]"
- заменить свою собственную идентификационную информацию. (Не включают
- в скобках!) Текст должен быть заключен в соответствующей
- синтаксис комментарий к файлу формата. Мы также рекомендуем включить 
- название файла или класса и описание назначения на 
- той же "печатной странице", что и уведомление об авторских правах, для упрощения
- идентификация в архивах сторонних производителей.
+      To apply the Apache License to your work, attach the following
+      boilerplate notice, with the fields enclosed by brackets "[]"
+      replaced with your own identifying information. (Don't include
+      the brackets!)  The text should be enclosed in the appropriate
+      comment syntax for the file format. We also recommend that a
+      file or class name and description of purpose be included on the
+      same "printed page" as the copyright notice for easier
+      identification within third-party archives.
 
- Авторские права [гггг] [имя владельца авторских прав]
+   Copyright [yyyy] [name of copyright owner]
 
- Лицензируется по лицензии Apache версии 2.0 (далее "Лицензия");
- вы не имеете права использовать этот файл, кроме как в соответствии с лицензией.
- Вы можете получить копию лицензии по адресу
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
- http://www.apache.org/licenses/LICENSE-2.0
+       http://www.apache.org/licenses/LICENSE-2.0
 
- За исключением случаев, предусмотренных действующим законодательством или оговоренных в письменной форме, программное обеспечение 
- распространяемое по Лицензии, распространяется по ПРИНЦИПУ "КАК ЕСТЬ", 
- БЕЗ КАКИХ-ЛИБО ГАРАНТИЙ Или УСЛОВИЙ, явных или подразумеваемых.
- Смотрите Лицензию для конкретного языка, регулирующего разрешения и 
- ограничения по лицензии.
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
